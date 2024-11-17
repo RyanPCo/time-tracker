@@ -44,7 +44,7 @@ def preprocess_video(video_path, num_frames=16, frame_size=(112, 112)):
 with open("label_map.txt", "r") as f:
     kinetics_labels = [line.strip() for line in f]
 
-video_path = r"C:\Users\copie\OneDrive\Documents\GitHub\time-tracker\IMG_1584.MOV"
+video_path = r"C:\Users\copie\OneDrive\Documents\GitHub\time-tracker\IMG_1962.MOV"
 
 input_tensor = preprocess_video(video_path)
 with torch.no_grad():
