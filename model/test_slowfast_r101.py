@@ -1,7 +1,4 @@
 import torch
-# Choose the `slowfast_r50` model 
-model = torch.hub.load('facebookresearch/pytorchvideo', 'slowfast_r101', pretrained=True)
-
 from typing import Dict
 import json
 import urllib
@@ -17,6 +14,8 @@ from pytorchvideo.transforms import (
     UniformTemporalSubsample,
     UniformCropVideo
 )
+
+model = torch.hub.load('facebookresearch/pytorchvideo', 'slowfast_r101', pretrained=True)
 
 # Set to GPU or CPU
 device = "cpu"
@@ -85,10 +84,6 @@ transform =  ApplyTransformToKey(
 
 # The duration of the input clip is also specific to the model.
 clip_duration = (num_frames * sampling_rate)/frames_per_second
-
-#url_link = "https://dl.fbaipublicfiles.com/pytorchvideo/projects/archery.mp4"
-#try: urllib.URLopener().retrieve(url_link, video_path)
-#except: urllib.request.urlretrieve(url_link, video_path)
 
 video_path = r"C:\Users\copie\OneDrive\Documents\GitHub\time-tracker\model\IMG_1584.MOV"
 
