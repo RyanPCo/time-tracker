@@ -85,7 +85,7 @@ transform =  ApplyTransformToKey(
 # The duration of the input clip is also specific to the model.
 clip_duration = (num_frames * sampling_rate)/frames_per_second
 
-video_path = r"C:\Users\copie\OneDrive\Documents\GitHub\time-tracker\model\IMG_1584.MOV"
+video_path = r"C:\Users\copie\OneDrive\Documents\GitHub\time-tracker\model\Walking.mp4"
 
 # Select the duration of the clip to load by specifying the start and end duration
 # The start_sec should correspond to where the action occurs in the video

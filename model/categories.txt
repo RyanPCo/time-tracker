@@ -1,0 +1,415 @@
+[eating]
+dining
+drinking
+drinking beer
+drinking shots
+eating burger
+eating cake
+eating carrots
+eating chips
+eating doughnuts
+eating hotdog
+eating ice cream
+eating spaghetti
+eating watermelon
+tasting beer
+tasting food
+
+[Sleeping]
+baby waking up
+yawning
+
+[exercising]
+abseiling
+archery
+arm wrestling
+bench pressing
+bobsledding
+bouncing on trampoline
+bowling
+breakdancing
+canoeing or kayaking
+capoeira
+cartwheeling
+catching or throwing baseball
+catching or throwing frisbee
+catching or throwing softball
+clean and jerk
+climbing a rope
+climbing tree
+deadlifting
+disc golfing
+diving cliff
+dodgeball
+doing aerobics
+dribbling basketball
+drop kicking
+dunking basketball
+exercising arm
+exercising with an exercise ball
+front raises
+golf chipping
+golf driving
+golf putting
+gymnastics tumbling
+high jump
+high kick
+hitting baseball
+hockey stop
+hula hooping
+hurdling
+hurling (sport)
+ice climbing
+ice skating
+javelin throw
+jogging
+juggling soccer ball
+kicking field goal
+kicking soccer ball
+long jump
+lunge
+marching
+parkour
+passing American football (in game)
+passing American football (not in game)
+playing badminton
+playing basketball
+playing ice hockey
+playing squash or racquetball
+playing tennis
+playing volleyball
+pole vault
+pull ups
+punching bag
+punching person (boxing)
+push up
+rock climbing
+roller skating
+running on treadmill
+shooting basketball
+shooting goal (soccer)
+shot put
+side kick
+situp
+skateboarding
+ski jumping
+skiing (not slalom or crosscountry)
+skiing crosscountry
+skiing slalom
+skipping rope
+snatch weight lifting
+somersaulting
+squat
+swimming backstroke
+swimming breast stroke
+swimming butterfly stroke
+tai chi
+throwing ball
+throwing discus
+triple jump
+vault
+wrestling
+yoga
+zumba
+
+[Working]
+arranging flowers
+assembling computer
+bandaging
+bartending
+bee keeping
+bending metal
+blasting sand
+blowing glass
+blowing leaves
+bookbinding
+braiding hair
+building cabinet
+building shed
+busking
+carrying baby
+catching fish
+changing oil
+changing wheel
+checking tires
+cheerleading
+chopping wood
+cleaning floor
+cleaning gutters
+cleaning pool
+cleaning shoes
+cleaning toilet
+cleaning windows
+climbing ladder
+counting money
+digging
+doing laundry
+extinguishing fire
+folding clothes
+folding napkins
+folding paper
+garbage collecting
+giving or receiving award
+ice fishing
+ironing
+laying bricks
+making bed
+making jewelry
+milking cow
+mopping floor
+moving furniture
+mowing lawn
+news anchoring
+opening bottle
+picking fruit
+planting trees
+plastering
+presenting weather forecast
+pumping gas
+pushing car
+pushing cart
+pushing wheelchair
+recording music
+sanding floor
+setting table
+sharpening knives
+sharpening pencil
+shearing sheep
+shining shoes
+shoveling snow
+shredding paper
+sweeping floor
+testifying
+trimming trees
+tying knot (not on a tie)
+unboxing
+unloading truck
+waiting in line
+walking the dog
+washing dishes
+watering plants
+welding
+
+[cooking]
+baking cookies
+barbequing
+breading or breadcrumbing
+cooking chicken
+cooking egg
+cooking on campfire
+cooking sausages
+cutting pineapple
+cutting watermelon
+flipping pancake
+frying vegetables
+grinding meat
+making a cake
+making a sandwich
+making pizza
+making sushi
+making tea
+peeling apples
+peeling potatoes
+scrambling eggs
+stomping grapes
+tossing salad
+
+[Leisure]
+air drumming
+applauding
+auctioning
+balloon blowing
+beatboxing
+belly dancing
+bending back
+blowing nose
+blowing out candles
+brush painting
+bungee jumping
+carving pumpkin
+celebrating
+clapping
+clay pottery making
+contact juggling
+country line dancing
+cracking neck
+crawling baby
+dancing ballet
+dancing charleston
+dancing gangnam style
+dancing macarena
+decorating the christmas tree
+drumming fingers
+egg hunting
+faceplanting
+feeding birds
+feeding fish
+feeding goats
+finger snapping
+flying kite
+getting a haircut
+getting a tattoo
+grooming dog
+grooming horse
+hammer throw
+headbanging
+headbutting
+holding snake
+hopscotch
+jetskiing
+juggling balls
+juggling fire
+jumping into pool
+jumpstyle dancing
+kitesurfing
+knitting
+krumping
+making snowman
+massaging back
+massaging feet
+massaging legs
+massaging person's head
+opening present
+paragliding
+parasailing
+petting animal (not cat)
+petting cat
+playing accordion
+playing bagpipes
+playing bass guitar
+playing cards
+playing cello
+playing chess
+playing clarinet
+playing controller
+playing cricket
+playing cymbals
+playing didgeridoo
+playing drums
+playing flute
+playing guitar
+playing harmonica
+playing harp
+playing keyboard
+playing kickball
+playing monopoly
+playing organ
+playing paintball
+playing piano
+playing poker
+playing recorder
+playing saxophone
+playing ukulele
+playing violin
+playing xylophone
+pumping fist
+reading book
+reading newspaper
+riding camel
+riding elephant
+riding mechanical bull
+riding mule
+riding or walking with horse
+riding unicycle
+ripping paper
+robot dancing
+rock scissors paper
+sailing
+salsa dancing
+scuba diving
+shuffling cards
+singing
+skydiving
+slacklining
+slapping
+sled dog racing
+smoking
+smoking hookah
+sneezing
+sniffing
+snorkeling
+snowboarding
+snowkiting
+spinning poi
+spray painting
+spraying
+springboard diving
+stretching arm
+stretching leg
+strumming guitar
+surfing crowd
+surfing water
+swing dancing
+swinging legs
+swinging on something
+sword fighting
+tango dancing
+tap dancing
+tapping guitar
+tapping pen
+texting
+throwing axe
+tickling
+tobogganing
+tossing coin
+training dog
+trapezing
+using computer
+using remote controller (not gaming)
+water skiing
+water sliding
+weaving basket
+whistling
+windsurfing
+wrapping present
+writing
+
+[Commuting]
+biking through snow
+crossing river
+driving car
+driving tractor
+hoverboarding
+motorcycling
+riding a bike
+riding mountain bike
+riding scooter
+snowmobiling
+using segway
+
+[Bathroom]
+applying cream
+brushing hair
+brushing teeth
+curling hair
+cutting nails
+doing nails
+drawing
+dying hair
+filling eyebrows
+fixing hair
+gargling
+shaving head
+shaving legs
+taking a shower
+trimming or shaving beard
+tying bow tie
+tying tie
+washing feet
+washing hair
+washing hands
+waxing back
+waxing chest
+waxing eyebrows
+waxing legs
+
+[Talking]
+answering questions
+crying
+hugging
+kissing
+laughing
+shaking hands
+shaking head
+sign language interpreting
+sticking tongue out
